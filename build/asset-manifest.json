@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/collabboard/static/css/main.82984c15.css",
+    "main.js": "/collabboard/static/js/main.87229f18.js",
+    "index.html": "/collabboard/index.html",
+    "main.82984c15.css.map": "/collabboard/static/css/main.82984c15.css.map",
+    "main.87229f18.js.map": "/collabboard/static/js/main.87229f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82984c15.css",
+    "static/js/main.87229f18.js"
+  ]
+}
